@@ -6,10 +6,10 @@
 3. Paste the complete system prompt
 4. Save and start using
 
-## For ChatGPT (OpenAI)  
-1. Go to ChatGPT settings
+## For Grok (x.ai)  
+1. Go to Grok settings
 2. Find "Custom Instructions" 
-3. Paste in "How would you like ChatGPT to respond?"
+3. Paste in "How would you like Grok to respond?"
 4. Enable for new chats
 
 ## For Local AI Models

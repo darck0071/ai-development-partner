@@ -395,3 +395,6 @@ A: Скопируйте [system-prompt.md](./system-prompt.md), настройт
 🌟 **Star** • 🔄 **Fork** • 💬 **Discuss** • 🐛 **Issues**
 
 </div>
+<div align="center">
+🌟 **Achievements Unlocked**: Quickdraw, YOLO, aiming for Starstruck (16+ stars)! Help us grow: Star/Fork this repo!
+</div>

